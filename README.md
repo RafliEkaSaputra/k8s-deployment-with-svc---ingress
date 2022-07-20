@@ -2,7 +2,7 @@
 
 1. create directory final
 
-        mkdir final
+mkdir final
 
 2. change direktory final
 
